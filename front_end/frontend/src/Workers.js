@@ -17,7 +17,6 @@ import {
     Row,
     Col
 } from 'reactstrap';
-import img6 from './img5.jpg';
 import worker from "./assets/images/services/makeup-art.jpg";
 import {useEffect, useState} from "react";
 import axios from "./axios";

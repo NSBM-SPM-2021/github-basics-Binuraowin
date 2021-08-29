@@ -18,7 +18,6 @@ import {
     Col
 } from 'reactstrap';
 
-import img6 from './beard.png';
 import bridal from "./assets/images/services/bridal.jpg";
 import nail from "./assets/images/services/nail.jpg";
 import haircut from "./assets/images/services/haircut.jpg";
