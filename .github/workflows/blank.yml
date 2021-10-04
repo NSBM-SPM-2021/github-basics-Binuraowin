@@ -28,6 +28,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
+      - name: admin path
+        run: cd admin
+
       - name: Install dependencies
         run: npm install
 
