@@ -33,6 +33,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+      - name: run admin
+        run: npm start
 
 
       # Runs a set of commands using the runners shell
