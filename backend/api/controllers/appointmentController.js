@@ -23,7 +23,7 @@ exports.appointment_get_all = (req, res, next) => {
             id: doc.id,
             request: {
               type: "GET",
-              url: "http://localhost:3000/appointments/" + doc._id
+              url: "https://saloon-spm-backend.herokuapp.com/appointments/" + doc._id
             }
           };
         })
