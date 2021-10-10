@@ -33,7 +33,7 @@ const success = () =>{
     function submit() {
 
         const appointment = { userName,date, time, service,consumer,email,phone};
-        axios.post('http://localhost:3001/appointments', appointment)
+        axios.post('https://saloon-spm-backend.herokuapp.com/appointments', appointment)
             .then(response =>
                     // console.log(response),
                     success(),
