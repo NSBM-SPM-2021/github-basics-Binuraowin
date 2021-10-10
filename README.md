@@ -28,8 +28,8 @@ User Frontend : - React js
 
 Backend :- Node js
 
-Admin Frontend :-  marmelab /react-admin
-                   React Js
+Admin Frontend :-  1.marmelab /react-admin </br>
+                   2.React Js
 
 
 <h2> Web Site Screenshots</h2>
