@@ -30,7 +30,6 @@ const Cards = () => {
                     <CardTitle>{title}</CardTitle>
                 </CardImgOverlay>
             </Card>
-
             <Card >
                 <CardImg top width="100%" src={img6} alt="Card image cap" />
                 <CardImgOverlay>
